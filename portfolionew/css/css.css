@@ -1,0 +1,154 @@
+.container {
+    min-height: 100%;
+    min-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    height: 15%;
+    width: 100%;
+}
+
+.hfont {
+    color: #2d3c49;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    padding-top: 2%;
+}
+
+.degree {
+    color: #2d3c49;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.article1 {
+    height: 45%;
+    width: 100%;
+}
+
+.article2 {
+    color: #7d97ad;
+    font-size: 24px;
+    height: 5%;
+    width: 100%;
+}
+
+.projects {
+    height: 33%;
+    width: 100%;
+}
+
+.projectdes {
+    width: 25%;
+    height: 100%;
+    float: left;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.projectname {
+    font-size: 9px;
+}
+
+.body {
+    margin: 25px;
+}
+
+.logo {
+    float: left;
+}
+
+hr {
+    border: 1px solid #7d97ad;
+}
+
+.container {
+    min-height: 100%;
+    min-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    height: 15%;
+    width: 100%;
+}
+
+.hfont {
+    color: #2d3c49;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    padding-top: 2%;
+}
+
+.degree {
+    color: #2d3c49;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.article1 {
+    height: 45%;
+    width: 100%;
+}
+
+.article2 {
+    color: #7d97ad;
+    font-size: 24px;
+    height: 5%;
+    width: 100%;
+}
+
+.projects {
+    height: 33%;
+    width: 100%;
+}
+
+.projectdes {
+    max-width: 25%;
+    max-height: 100%;
+    float: left;
+    text-align: justify;
+    font-size: 18px;
+    word-wrap: break-word;
+}
+
+.projectname {
+    font-size: 9px;
+}
+
+.body {
+    margin: 25px;
+}
+
+.logo {
+    float: left;
+}
+
+hr {
+    border: 1px solid #7d97ad;
+}
+
+
+.page
+{
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    font-size: 7px;
+    text-justify: auto;
+    word-wrap: break-word;
+}
+
+
+
